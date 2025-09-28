@@ -1,2 +1,1 @@
-# Cutemaster
-Corte optimizado
+
